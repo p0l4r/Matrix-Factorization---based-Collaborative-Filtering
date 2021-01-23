@@ -1,6 +1,6 @@
 # matrix-factorization (Repository name: Matrix-Factorization---based-Collaborative-Filtering)
 
-matrix-factorization is a light-weight program written in python language for performing basic operations for matrix factorization. I have plans to create a python module from this repository in the future. If you want to contribute to this project, you are most welcome. 
+matrix-factorization is a light-weight program written in python language for performing basic operations for matrix factorization-based collaborative filtering. I have plans to create a python module from this repository in the future. If you want to contribute to this project, you are most welcome. 
 
 ## Requirments
 ### The ```matrix-factorization.py``` requires you to have ```python >= 3.7 ``` and ```numpy``` module. 
